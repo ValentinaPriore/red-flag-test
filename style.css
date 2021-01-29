@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    padding: 5%;
+}
+
+.Disclaimer{
+    text-align: justify;
+  text-justify: inter-word;
+}
+
+div, header{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+h6{
+    padding-bottom: 20px;
+}
+
+.puntaje{
+    display: list-item;
+}
+
+a{
+    text-decoration: none !important;
+    color: skyblue !important;
+}
+
+
+.form-check{
+    min-width: 200px;
+    padding: 4px;
+}
